@@ -61,3 +61,12 @@ img{
     max-width:100%;
     border-radius:15px;
 }
+
+.card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: block;
+    margin: 20px auto;
+}
