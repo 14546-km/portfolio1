@@ -56,17 +56,15 @@ footer{
     color:white;
     padding:15px;
 }
-
 img{
     max-width:100%;
-    border-radius:15px;
 }
 
-.card img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    object-fit: cover;
-    display: block;
-    margin: 20px auto;
+.card img{
+    width:150px !important;
+    height:150px !important;
+    border-radius:50% !important;
+    object-fit:cover;
+    display:block;
+    margin:20px auto;
 }
